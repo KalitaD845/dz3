@@ -1,0 +1,6 @@
+2)
+let user = [puiple, puiple2] 
+puiple = {name:'dima' , age : 17}
+ 
+puiple2 = {name: 'masha' , age : 19}
+user.age > 18 ? 'ok' : 'no'
