@@ -1,0 +1,2 @@
+let animal = { name:'pig', age : 2, weight:450}
+ console.log ( animal.weight >=500 ? 'true' : 'false');
